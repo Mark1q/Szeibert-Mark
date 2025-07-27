@@ -39,9 +39,7 @@ Computer Science student at **Babeș-Bolyai University** with a strong passion f
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mark1q&show_icons=true&theme=radical" alt="Mark's GitHub Stats" />
-</div>
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark1q&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark1q&layout=compact&theme=radical)
 
